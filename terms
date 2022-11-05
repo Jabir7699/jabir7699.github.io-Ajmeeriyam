@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>SocialWaves - Social Media Campaign Partner</title>
+        <meta content="" name="descriptison">
+        <meta content="" name="keywords">
+        <!-- Favicons -->
+        <link href="res/img/favicon.png" rel="icon">
+        <link href="res/img/apple-touch-icon.png" rel="apple-touch-icon">
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+        <!-- Vendor CSS Files -->
+        <link href="res/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="res/vendor/icofont/icofont.min.css" rel="stylesheet">
+        <link href="res/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+        <link href="res/vendor/venobox/venobox.css" rel="stylesheet">
+        <link href="res/vendor/remixicon/remixicon.css" rel="stylesheet">
+        <link href="res/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="res/vendor/aos/aos.css" rel="stylesheet">
+        <!-- Template Main CSS File -->
+        <link href="res/css/style.css" rel="stylesheet">
+        <!-- =======================================================
+            * Template Name: Bootslander - v2.2.0
+            * Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
+            * Author: BootstrapMade.com
+            * License: https://bootstrapmade.com/license/
+            ======================================================== -->
+    </head>
+    <body>
+                <header id="header" class="fixed-top d-flex align-items-center">
+            <div class="container d-flex align-items-center">
+                <div class="logo mr-auto">
+                    <h1 class="text-light"><a href="/"><span>SocialWaves</span></a></h1>
+                    <!-- Uncomment below if you prefer to use an image logo -->
+                    <!-- <a href="index.html"><img src="res/img/logo.png" alt="" class="img-fluid"></a>-->
+                </div>
+                <nav class="nav-menu d-none d-lg-block">
+                    <ul>
+                        <li class="active"><a href="/">Home</a></li>
+                        <li><a href="/#active_camps">Active Campaigns</a></li>
+                        <li><a href="/#pricing">Pricing</a></li>
+                        <li><a href="/#features">Features</a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=919388399933&text=Let%27s%20Start%20our%20Campaign">Contact US</a></li>
+                    </ul>
+                </nav>
+                <!-- .nav-menu -->
+            </div>
+        </header>  <main id="main">
+
+    <!-- ======= Breadcrumbs Section ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Terms Of Service</h2>
+          <ol>
+            <li><a href="/">Home</a></li>
+            <li>Terms Of Service</li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs Section -->
+
+    <section class="inner-page">
+      <div class="container col-lg-8 tsf">
+        <center><h3>Terms Of Service</h3></center>
+<p>Service Of this website (socialwaves.in) will be subject to this terms and conditions</p>
+
+
+<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+
+
+<p>Socialwaves may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.</p>
+
+<p>Unauthorized attempts to upload information or change information on this site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.</p>
+
+<p>ALL MATERIALS ON THIS SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESSED OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.</p>
+
+<p>Socialwaves will not be held responsible for any legal or other issues regarding any of the content provided in the website. How ever Socialwaves will cooperate with the legal entities.</p>
+      </div>
+    </section>
+
+  </main><!-- End #main -->
+<style type="text/css">
+        .tsf{
+        font-family: monospace;
+        text-align: justify;
+      }
+      .tsf h3, .tsf h4 {
+        font-family: monospace;
+      }
+      .tsf p::before {
+        content: '-> ';
+        margin-left: -21px;
+      }
+</style>
+   <!-- ======= Footer ======= -->
+        <footer id="footer">
+            <div class="container">
+                <div class="copyright">
+                    &copy; Copyright <strong><span>Cypro Technologies</span></strong>. All Rights Reserved<br><br>
+                    Service is is subjected to <a href="terms">Terms of Service</a> and Data We collect will be processed according to <a href="policy">Privacy Policy</a>
+                </div>
+                <div class="credits">
+                    <!-- All the links in the footer should remain intact. -->
+                    <!-- You can delete the links only if you purchased the pro version. -->
+                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/ -->
+                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+        <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+        <div id="preloader"></div>
+        <!-- Vendor JS Files -->
+        <script src="res/vendor/jquery/jquery.min.js"></script>
+        <script src="res/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="res/vendor/jquery.easing/jquery.easing.min.js"></script>
+        <script src="res/vendor/php-email-form/validate.js"></script>
+        <script src="res/vendor/venobox/venobox.min.js"></script>
+        <script src="res/vendor/waypoints/jquery.waypoints.min.js"></script>
+        <script src="res/vendor/counterup/counterup.min.js"></script>
+        <script src="res/vendor/owl.carousel/owl.carousel.min.js"></script>
+        <script src="res/vendor/aos/aos.js"></script>
+        <!-- Template Main JS File -->
+        <script src="res/js/main.js"></script>
+    </body>
+</html>

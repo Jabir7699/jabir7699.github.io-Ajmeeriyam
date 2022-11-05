@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>SocialWaves - Social Media Campaign Partner</title>
+        <meta content="" name="descriptison">
+        <meta content="" name="keywords">
+        <!-- Favicons -->
+        <link href="res/img/favicon.png" rel="icon">
+        <link href="res/img/apple-touch-icon.png" rel="apple-touch-icon">
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+        <!-- Vendor CSS Files -->
+        <link href="res/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="res/vendor/icofont/icofont.min.css" rel="stylesheet">
+        <link href="res/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+        <link href="res/vendor/venobox/venobox.css" rel="stylesheet">
+        <link href="res/vendor/remixicon/remixicon.css" rel="stylesheet">
+        <link href="res/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="res/vendor/aos/aos.css" rel="stylesheet">
+        <!-- Template Main CSS File -->
+        <link href="res/css/style.css" rel="stylesheet">
+        <!-- =======================================================
+            * Template Name: Bootslander - v2.2.0
+            * Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
+            * Author: BootstrapMade.com
+            * License: https://bootstrapmade.com/license/
+            ======================================================== -->
+    </head>
+    <body>
+                <header id="header" class="fixed-top d-flex align-items-center">
+            <div class="container d-flex align-items-center">
+                <div class="logo mr-auto">
+                    <h1 class="text-light"><a href="/"><span>SocialWaves</span></a></h1>
+                    <!-- Uncomment below if you prefer to use an image logo -->
+                    <!-- <a href="index.html"><img src="res/img/logo.png" alt="" class="img-fluid"></a>-->
+                </div>
+                <nav class="nav-menu d-none d-lg-block">
+                    <ul>
+                        <li class="active"><a href="/">Home</a></li>
+                        <li><a href="/#active_camps">Active Campaigns</a></li>
+                        <li><a href="/#pricing">Pricing</a></li>
+                        <li><a href="/#features">Features</a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=919388399933&text=Let%27s%20Start%20our%20Campaign">Contact US</a></li>
+                    </ul>
+                </nav>
+                <!-- .nav-menu -->
+            </div>
+        </header>  <main id="main">
+
+    <!-- ======= Breadcrumbs Section ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Privacy Policy</h2>
+          <ol>
+            <li><a href="/">Home</a></li>
+            <li>Privacy Policy</li>
+          </ol>
+        </div>
+      </div>
+    </section><!-- End Breadcrumbs Section -->
+
+    <section class="inner-page">
+      <div class="container">
+        <div class="row tsx">
+            <div class="col-lg-3">
+                <ul style="padding-inline-start:0;">
+                <h3>Table of Contents</h3>
+                    <a href="#privacy"><li>privacy policy</li></a>
+                    <a href="#consent"><li>Consent</li></a>
+                    <a href="#"><li>Information We Collect</li></a>
+                    <a href="#"><li>How we use your information</li></a>
+                    <a href="#"><li>Cookies and Web Beacons</li></a>
+                    <a href="#"><li>Third-Party Privacy Policies</li></a>
+                    <a href="#"><li>CCPA Privacy Policy</li></a>
+                    <a href="#"><li>GDPR Privacy Policy</li></a>
+                    <a href="#"><li>Children's Information</li></a>
+                </ul>
+            </div>
+            <div class="col-lg-9 tsf">
+                    <h3 id="privacy" style="padding-top: 70px; margin-top: -70px;">Privacy Policy</h3>
+At SoicalWaves, accessible at socialwaves.in, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by SoicalWaves and how we use it.
+<br>
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at <a href="mailto:mail@socialwaves.in">mail@socialwaves.in</a>
+<br>
+This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in SoicalWaves. This policy is not applicable to any information collected offline or via channels other than this website.
+<br>
+<br>
+<h4 style="padding-top: 70px; margin-top: -70px;" id="consent">Consent</h4>
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+<br>
+<br>
+<h4>Information we collect</h4>
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+<br>
+If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+<br>
+When you use our service, we may ask for your contact information, including items such as name, address, email address, and telephone number.
+<br>
+<br>
+<h4>How we use your information</h4>
+We use the information we collect in various ways, including to:
+<br>
+> Provide, operate, and maintain our website<br>
+> Improve, personalize, and expand our website<br>
+> Understand and analyze how you use our webste<br>
+> Develop new products, services, features, and functionality<br>
+> Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the webste, and for marketing and promotional purposes<br>
+> Send you emails<br>
+> Find and prevent fraud<br>
+> Log Files<br>
+> part of infos Will be shared with Campaign hosting partners to provide them with campaign feedback<br>
+> Poster created using our service is considered as public domain data and it will be used for advertising along with a referenced link of the poster. Poster image will be included as meta data in most cases and may be used as standalone file also<br>
+> And will be used by other means <br>
+<br>
+SoicalWaves follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+<br>
+<br>
+<h4>Cookies and Web Beacons</h4>
+Like any other website, SoicalWaves uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+<br>
+<br>
+<h4>Third-Party Privacy Policies</h4>
+SoicalWaves's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies are found in their website.
+<br>
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+<br>
+<br>
+<h4>CCPA Privacy Policy <small>(Do Not Sell My Personal Information)</small></h4>
+Under the CCPA, among other rights, California consumers have the right to:
+<br>
+Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+<br>
+Request that a business delete any personal data about the consumer that a business has collected.
+<br>
+Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+<br>
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+<br>
+<br>
+<h4>GDPR Privacy Policy <small>(Data Protection Rights)</small></h4>
+We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+<br>
+The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+<br>
+The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+<br>
+The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+<br>
+The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+<br>
+The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+<br>
+The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+<br>
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+<br>
+<br>
+<h4>Children's Information</h4>
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+<br>
+SoicalWaves does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+            </div>
+        </div>
+      </div>
+    </section>
+
+  </main><!-- End #main -->
+
+  <style type="text/css">
+      .tsx ul{
+        list-style-type: none;
+        width: 100%;
+      }
+      .tsx ul li{
+        background: #eee;
+        padding: 5px 15px;
+        margin: 2px 0px;
+        font-size: 80%;
+      }
+      .tsx ul a{
+        color: #000;
+      }
+      .tsx ul li:hover{
+        background: #ddd;
+      }
+      .tsf{
+        font-family: monospace;
+        text-align: justify;
+      }
+      .tsf h3, .tsf h4 {
+        font-family: monospace;
+      }
+  </style>
+
+   <!-- ======= Footer ======= -->
+        <footer id="footer">
+            <div class="container">
+                <div class="copyright">
+                    &copy; Copyright <strong><span>Cypro Technologies</span></strong>. All Rights Reserved<br><br>
+                    Service is is subjected to <a href="terms">Terms of Service</a> and Data We collect will be processed according to <a href="policy">Privacy Policy</a>
+                </div>
+                <div class="credits">
+                    <!-- All the links in the footer should remain intact. -->
+                    <!-- You can delete the links only if you purchased the pro version. -->
+                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/ -->
+                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+        <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+        <div id="preloader"></div>
+        <!-- Vendor JS Files -->
+        <script src="res/vendor/jquery/jquery.min.js"></script>
+        <script src="res/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="res/vendor/jquery.easing/jquery.easing.min.js"></script>
+        <script src="res/vendor/php-email-form/validate.js"></script>
+        <script src="res/vendor/venobox/venobox.min.js"></script>
+        <script src="res/vendor/waypoints/jquery.waypoints.min.js"></script>
+        <script src="res/vendor/counterup/counterup.min.js"></script>
+        <script src="res/vendor/owl.carousel/owl.carousel.min.js"></script>
+        <script src="res/vendor/aos/aos.js"></script>
+        <!-- Template Main JS File -->
+        <script src="res/js/main.js"></script>
+    </body>
+</html>

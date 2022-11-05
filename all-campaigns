@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>SocialWaves - Social Media Campaign Partner</title>
+        <meta content="" name="descriptison">
+        <meta content="" name="keywords">
+        <!-- Favicons -->
+        <link href="res/img/favicon.png" rel="icon">
+        <link href="res/img/apple-touch-icon.png" rel="apple-touch-icon">
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+        <!-- Vendor CSS Files -->
+        <link href="res/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="res/vendor/icofont/icofont.min.css" rel="stylesheet">
+        <link href="res/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+        <link href="res/vendor/venobox/venobox.css" rel="stylesheet">
+        <link href="res/vendor/remixicon/remixicon.css" rel="stylesheet">
+        <link href="res/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="res/vendor/aos/aos.css" rel="stylesheet">
+        <!-- Template Main CSS File -->
+        <link href="res/css/style.css" rel="stylesheet">
+        <!-- =======================================================
+            * Template Name: Bootslander - v2.2.0
+            * Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
+            * Author: BootstrapMade.com
+            * License: https://bootstrapmade.com/license/
+            ======================================================== -->
+    </head>
+    <body>
+                <header id="header" class="fixed-top d-flex align-items-center">
+            <div class="container d-flex align-items-center">
+                <div class="logo mr-auto">
+                    <h1 class="text-light"><a href="/"><span>SocialWaves</span></a></h1>
+                    <!-- Uncomment below if you prefer to use an image logo -->
+                    <!-- <a href="index.html"><img src="res/img/logo.png" alt="" class="img-fluid"></a>-->
+                </div>
+                <nav class="nav-menu d-none d-lg-block">
+                    <ul>
+                        <li class="active"><a href="/">Home</a></li>
+                        <li><a href="/#active_camps">Active Campaigns</a></li>
+                        <li><a href="/#pricing">Pricing</a></li>
+                        <li><a href="/#features">Features</a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=919388399933&text=Let%27s%20Start%20our%20Campaign">Contact US</a></li>
+                    </ul>
+                </nav>
+                <!-- .nav-menu -->
+            </div>
+        </header>  <main id="main">
+    <section class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>All Campaigns</h2>
+          <ol>
+            <li><a href="/">Home</a></li>
+            <li>All Campaigns</li>
+          </ol>
+        </div>
+      </div>
+    </section>
+    <section id="active_camps" class="team inner-page">
+        <div class="container">
+            <div class="section-title" data-aos="fade-up">
+                <h2>Ongoing</h2>
+                <p>Active Campaigns</p>
+            </div>
+            <div class="row mx-auto" data-aos="fade-left">
+                
+				<div onclick='location.href = "iritaq-7eueb"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/469400f3c7d99d1e752b31ee0dc1794d.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>IRITAQ International Conclave Project Launching</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "skssf_tsr_anusmaranam_gfh4"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/2c496c3ab18e70260dc64cffae74cdb5.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ശൈഖുനാ ശംസുൽ ഉലമ, കണ്ണിയത്ത് ഉസ്താദ്, അത്തിപ്പറ്റ ഉസ്താദ് (ഖ.അ)</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "lensfed-47dbd"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/c266ee07249cf4baf9c2c1173e2f4059.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>LENSFED EXPO 2022</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "majlis-37fe"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/90e2d87e6a0c0fb7732deeffe47aaa36.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>കരുത്തുറ്റ മജ്‌ലിസിന്  പ്രബുദ്ധരായ നേതൃത്വം</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "lensfed-expo-d4f6"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/c99c5677e42087e82c6b97b183abebc6.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>LENSFED EXPO 2022</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "sargalayam-pulamanthol-4gnf"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/bfc4c996d5d025e785603fe58e9b289b.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>പുലാമന്തോൾമേഖല SKSSF സർഗലയത്തിനു ആശംസകൾ</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "kalolsavam-pmna-48dn"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/4797dc74d465c03ff0ab6c13e4e46e20.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>പെരിന്തൽമണ്ണ ഉപ ജില്ലാ സ്കൂൾ കലോത്സവം</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "iuml_peruvallur_gulf_ytr67"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/35ead0e65f13fc93c1b4a9d0bdf7bd7c.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ചരിത്രറാലിക്ക് ആശംസകൾ</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "sargalayam-4bdj3"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/76eaf80c7112e48f981aebd19b12cfc9.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ചാപ്പനങ്ങാടി മേഖല SKSSF സർഗലയത്തിനു ആശംസകൾ </h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "iuml_peruvallur_ytr67"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/d94978332e39e34ddaf01915f1fbdfea.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ചരിത്രറാലിയിൽ ഞാനുമുണ്ടാവും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "farook_college_msf_e5rt"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/9a056d5fd137ccb40822f1b2963001a5.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ഫാറൂഖിന് കരുത്തായി ഫാറൂഖിയന്റെ ശബ്ദം</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "kic_mavahibu_rabee_22_gtr1"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/5cf345c2dea42e711649baec36e0841d.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>KIC മവാഹിബു റബീഅ് 22</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "arivin-velicham-4ubd"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/312d62d78654bd4d071650e21291ce19.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>അദ്കാറുൽ  മാസാഅ: മജ്‌ലിസുന്നൂർ ആത്മീയ സംഗമം</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "sunni-afkar-ng7e"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/c860495340f5f20a63b51e6d9f7a7c63.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>സുന്നി അഫ്കാർ - പ്രചാരണ കാമ്പയിൻ</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "madh-nyt-47eh"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/56f8cd01320a9562ec8917e02b3c9421.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>മദ്ഹ് നൈറ്റ് - ശംസുൽ ഉലമ നഗർ വെള്ളിക്കീൽ</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "iuml-clt-47db"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/e36b0e52460f388f0166e9994d39219c.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>മുസ്‌ലിം ലീഗ് അംഗത്വ ക്യാമ്പയിൻ - Poster Maker</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "iuml-membership-4yd"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/3653f11483fa62fa9c1319f17242001f.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>അഭിമാനം ഈ അംഗത്വം - മുസ്‌ലിം ലീഗ് അംഗത്വ ക്യാമ്പയിൻ </h4>
+				            <span>IUML Membership Campaign 2022</span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "him-up-kalpetta-47sh"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/ff6fde308849be85451b9a734f30969a.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ലഹരി വിരുദ്ധ ക്യാമ്പയിൻ-ഞാനും അണി  ചേരുന്നു</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "sys-koylandi-5yej"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/4b8eea5a5952bde360977b0501ef153f.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>മെഹ്ഫിലെ അഹ്‌ലു ബൈത്</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "kayakkodi-467dbhs"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/6dde7d420df7545407654e84a50b3af8.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ലഹരിക്കെതിരെ പ്രതിരോധ ചങ്ങലയിൽ ഞാനുമുണ്ടാകും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "yamaniya-uroos-48fb"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/ac3dbf0768c8d515652937fd3440b06c.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ശംസുൽ ഉലമ ഉറൂസും യമാനീസ് സംഗമവും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "zain-academy-46gv"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/333ba488e6a9fb847b22d9c972ffeed1.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>Zain Academy Talent Test 22</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "united-global-48fn"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/f223ac3259e5d3f0b2b5219aaa2c01e6.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>United Padupp Global - United Premier League </h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "47ne38"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/1d44de9d2db207ba89d342c68c499dfc.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ഭാഷാധ്യാപകർ സമരത്തിലേക്ക്- മാർച്ചും ധർണ്ണയും  ഞാനും പങ്കെടുക്കും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "lahari-nd73"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/07f6829bd040488850c7e8671b5bf5c6.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ലഹരിക്കെതിരെ മനുഷ്യ മഹാ ശൃംഖല കുറ്റ്യാടിയിൽ </h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "wmo-gazali-476rb"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/0f10dd8fc54f6f7d7d24a017040a0284.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>WMO ഇമാം ഗസ്സാലി അക്കാദമി കൂളിവയൽ സമ്മേളനത്തിന് ഞാനുമുണ്ടാകും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "manushya-changala-487fb"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/f67e97f05e24263a6a34bc32238f9604.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ലഹരിക്കെതിരെ നവ കേരളം മുന്നേറ്റം-മനുഷ്യ ചങ്ങല ഞാനും പങ്കാളിയാവുന്നു</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "dubai-kmcc-mlp-48fj"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/be43afe98451f1983e3dbdadbaa77097.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>Drizzle സുവനീർ പ്രകാശനം - ഞാനുമുണ്ടാകും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "cheekode-school-47hnd"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/8ae71bf995b29e52add8eb5936672b2f.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>ഗവ യു പി സ്‌കൂൾ  ചീക്കോട്  കെട്ടിട ഉത്‌ഘാടനം - ഞാനുമുണ്ടാവും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "meelad-r7jh3"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/1b48e6d45c4ad14672833f25342a37b0.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>നബിദിന റാലിയും സൗഹൃദ സമ്മേളനവും  - ഞാനും പങ്കെടുക്കും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "madeenapassion-tsr"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/5de9a161910d3259f2b72851afabeae1.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>മദീന പാഷൻ - ഞാനും പങ്കെടുക്കും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "meelad-rally-46dhb"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/2328050626cf1ed407e39d5a918652a5.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>മീലാദ് റാലിയും പൊതു സമ്മേളനവും ഞാനുമുണ്ടാകും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "skssf-mlpe-74hs"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/a40f2af8d57552f768d30f53e4210020.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>മദീനാ പാഷനിൽ  ഞാനുമുണ്ടാവും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "lss_msm_2022_0hl7"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/30b3de6defd97e966f80bafede44b635.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>LSS Congratulation poster</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "uss_msm_2022_0hl7"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/b52f3ac0e9c0b88acfbca991c250ad5d.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>USS Congratulation poster</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "rabee-874jnd"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/f8e6204a8b5e951a259f305524271dc9.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>നൂറേ മെഹബൂബ് - നബിദിന റാലിയും പ്രഭാഷണവും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "madenathul-ilm-47db"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/ff8ce5a32719cc47af26cad92eab7f40.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>മദീനത്തുൽ ഇൽമ് ദർസ് മീലാദ് സമ്മേളനം & ബൈറുഹാ ഗ്രാന്റ് ഫിനാലെ</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "muneerul-islam-38dhm"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/7902873215ecda17063f250d443595d0.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>വനിതാ സംഗമവും കുടുംബ സംഗമവും - ആശംസകളോടെ</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "muneerul-islam-d83n"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/44067662b21f024f9e6a8ab60d694640.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>വനിതാ സംഗമവും കുടുംബ സംഗമവും - ഞാനും പങ്കെടുക്കും</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			
+				<div onclick='location.href = "wafy_wafiyya_fest_2022"' class='col-md-3 mt-5 mb-4 mt-lg-0'>
+				    <div class='member' data-aos='zoom-in' data-aos-delay='100'>
+				        <div class='pic'><img src='assets/placeholders/08447daaa3d40b736752f132c886942d.jpg' class='img-fluid' alt=''></div>
+				        <div class='member-info'>
+				            <h4>വാഫി വഫിയ്യ കലോത്സവം, സനദ് ദാന സമ്മേളനം</h4>
+				            <span> </span>
+				        </div>
+				    </div>
+				</div>
+			            </div>
+        </div>
+    </section>
+  </main>
+
+   <!-- ======= Footer ======= -->
+        <footer id="footer">
+            <div class="container">
+                <div class="copyright">
+                    &copy; Copyright <strong><span>Cypro Technologies</span></strong>. All Rights Reserved<br><br>
+                    Service is is subjected to <a href="terms">Terms of Service</a> and Data We collect will be processed according to <a href="policy">Privacy Policy</a>
+                </div>
+                <div class="credits">
+                    <!-- All the links in the footer should remain intact. -->
+                    <!-- You can delete the links only if you purchased the pro version. -->
+                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/ -->
+                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+        <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+        <div id="preloader"></div>
+        <!-- Vendor JS Files -->
+        <script src="res/vendor/jquery/jquery.min.js"></script>
+        <script src="res/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="res/vendor/jquery.easing/jquery.easing.min.js"></script>
+        <script src="res/vendor/php-email-form/validate.js"></script>
+        <script src="res/vendor/venobox/venobox.min.js"></script>
+        <script src="res/vendor/waypoints/jquery.waypoints.min.js"></script>
+        <script src="res/vendor/counterup/counterup.min.js"></script>
+        <script src="res/vendor/owl.carousel/owl.carousel.min.js"></script>
+        <script src="res/vendor/aos/aos.js"></script>
+        <!-- Template Main JS File -->
+        <script src="res/js/main.js"></script>
+    </body>
+</html>
